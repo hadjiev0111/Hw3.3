@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Hw3_3</string>
+    <string name="send">send</string>
+    <string name="enter_some_txt">Enter some txt</string>
+</resources>
