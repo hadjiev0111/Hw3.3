@@ -12,7 +12,7 @@
         android:id="@+id/imgChoose"
         android:layout_width="150dp"
         android:layout_height="150dp"
-        android:layout_marginStart="15dp"
+        android:layout_gravity="center"
         android:src="@drawable/ic_launcher_background"/>
 
     <EditText
